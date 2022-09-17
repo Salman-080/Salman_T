@@ -1,0 +1,229 @@
+body{
+overflow-x: hidden;
+background-color: #6F696C;
+
+}
+
+
+#Sundarban1{
+
+
+color: red;
+text-align: center;
+
+font-size: 40px;
+
+}
+
+
+#Sundarban2{
+
+	color: brown;
+
+}
+
+#Sundarban3{
+
+	color: brown;
+
+}
+
+
+#Mapspicture{
+
+
+	overflow: auto;
+
+}
+
+
+#p1{
+
+	font-size: 30px;
+
+}
+
+#Sundarban4{
+
+	color: #0CFF00;
+
+	font-size: 20px;
+
+
+}
+
+
+#Sundarban5{
+
+
+	color: #0CFF00;
+
+	font-size: 20px;
+
+
+}
+
+
+
+#p2{
+
+font-size: 30px;
+
+margin-top: 3px;
+
+}
+
+#p3{
+
+	margin-top: 3px;
+
+	font-size: 30px;
+}
+
+
+#DIVEE1{
+
+	margin: 2px;
+
+
+}
+
+
+
+#DIVEE2{
+
+	margin: 2px;
+
+
+
+}
+
+
+#Wildlifepicture{
+
+	margin-bottom: 9px;
+
+}
+
+
+.Whitey{
+
+	color: white;
+
+}
+
+#p5{
+
+	font-size: 23px;
+
+}
+
+
+#MapsHistory{
+
+
+	border: 10px solid white;
+	padding: 8px;
+	padding-top: 1px;
+
+}
+
+
+#Wildlifesundarban{
+
+
+  border: 10px solid white;
+
+  padding: 2px 8px;
+
+
+}
+
+
+#fotterr{
+
+
+	border: 1px solid #D4D4C4;
+
+	width: 100%;
+
+	height: 500px;
+
+	background-color: #D4D4C4;
+	margin-top: 4%;
+}
+ul{
+
+	display: flex;
+	position: absolute;
+
+	left: 23%;
+
+padding: -10%;
+}
+ul li{
+
+	list-style: none;
+padding: 60px;
+
+}
+
+ul li a{
+padding: 5px;
+	
+	width: 70px;
+	height: 70px;
+	background: #fff;
+	text-align: center;
+	font-size: 35px;
+	margin: 0 20px;
+	border-radius: 50%;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	border: 1px solid white;
+}
+i{
+
+padding: 15px;
+	color: black;
+}
+
+
+
+#navbar{
+
+	width: 100%;
+	height: 85px;
+	background-color: black;
+	color: white;
+
+}
+
+#Kali{
+
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+	font-size: 30px;
+
+border: 1px solid white;
+
+
+}
+
+
+*{
+
+	margin: 0px;
+
+	padding: 0px;
+
+}
+
+
+
+
+
+
+

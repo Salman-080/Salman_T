@@ -1,0 +1,145 @@
+
+#SEducation{
+
+		border: 10px solid white ;
+
+		margin-top: 50px;
+
+		margin-bottom: 30px;
+
+		margin-left: 440px;
+
+		height: 1100px ;
+
+		width: 1000px;
+
+		overflow: auto;
+
+		padding: 8px;
+
+		background-color: white;
+		background-position: center;
+}
+
+
+body{
+
+
+background: url(../Images/dublar-chor-sundarban-bangladesh.jpg) ;
+
+background-repeat: no-repeat;
+background-size: 100% auto;
+
+background-attachment: fixed;
+
+
+}
+
+footer{
+
+
+background-color: orange;
+
+line-height: 20px;
+
+height: 300px;
+margin-bottom: 0px;
+width: auto;
+}
+
+
+
+#yi{
+
+min-height: 100%;
+
+}
+
+
+
+
+
+
+
+#fotterr{
+
+
+	border: 1px solid #D4D4C4;
+
+	width: 100%;
+
+	height: 500px;
+
+	background-color: #D4D4C4;
+	margin-top: 4%;
+}
+ul{
+
+	display: flex;
+	position: absolute;
+
+	left: 23%;
+
+padding: -10%;
+}
+ul li{
+
+	list-style: none;
+padding: 60px;
+
+}
+
+ul li a{
+padding: 5px;
+	
+	width: 70px;
+	height: 70px;
+	background: #fff;
+	text-align: center;
+	font-size: 35px;
+	margin: 0 20px;
+	border-radius: 50%;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	border: 1px solid white;
+}
+i{
+
+padding: 15px;
+	color: black;
+}
+
+
+
+#navbar{
+
+	width: 100%;
+	height: 75px;
+	background-color: #BFBFAB;
+	color: white;
+
+}
+
+#Kali{
+
+	color: white;
+	text-decoration: none;
+	padding: 40px;
+	font-size: 30px;
+
+border: 1px solid white;
+padding: 40px; 
+}
+
+
+
+
+
+
+*{
+
+	margin: 0px;
+	padding: 0px;
+
+}

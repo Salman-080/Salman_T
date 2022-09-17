@@ -1,0 +1,153 @@
+
+
+
+*{
+
+	margin: 0px;
+	padding: 0px;
+box-sizing: border-box;
+}
+
+
+
+
+
+#image{
+
+
+	width: 100%;
+
+height: 300px;
+
+}
+
+
+#heading{
+
+	position: absolute;
+
+left: 35%;
+bottom:54%;
+color: white;
+font-size: 50px;
+}
+
+
+#unlucky{
+
+
+	position: relative;
+
+}
+
+
+#navbar{
+
+	width: 100%;
+	height: 65px;
+	background-color: black;
+	color: white;
+
+}
+
+#Kali{
+
+	color: white;
+	text-decoration: none;
+	padding: 80px;
+	font-size: 30px;
+
+border: 1px solid white;
+
+}
+
+body{
+
+margin: 0px;
+border: 0px;
+overflow-x: hidden;
+
+}
+
+.STARTED{
+
+margin-left: 27.5%;
+	border: 1px solid #838E83;
+padding: 20px;
+background-color: #838E83;
+color: white;
+border-radius: 20px; 
+border-width: 8px; 
+
+cursor: pointer;
+}
+#nik{
+
+background-color: #DFE6DF;
+
+height: 160px;
+
+margin-bottom:5%;
+padding: 27px;
+}
+
+#par{
+
+border: 1px solid #DFE6DF;
+	font-size: 30px;
+
+background-color: #DFE6DF;
+padding: 20px;
+}
+.jin{
+
+	cursor: pointer;
+
+}
+#fotterr{
+
+
+	border: 1px solid #D4D4C4;
+
+	width: 100%;
+
+	height: 300px;
+
+	background-color: #D4D4C4;
+	margin-top: 4%;
+}
+ul{
+
+	display: flex;
+	position: absolute;
+
+	left: 30%;
+
+padding: -10%;
+}
+ul li{
+
+	list-style: none;
+padding: 40px;
+}
+
+ul li a{
+padding: 20px;
+
+	width: 80px;
+	height: 80px;
+	background: #fff;
+	text-align: center;
+	font-size: 35px;
+	margin: 0 10px;
+	border-radius: 50%;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	border: 3px solid white;
+}
+i{
+
+
+	color: black;
+}

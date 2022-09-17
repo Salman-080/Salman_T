@@ -1,0 +1,202 @@
+#S{
+    
+   position: relative;
+
+}
+
+#H{ 
+
+   position: absolute;
+   
+   padding-left: 26%;
+ 
+   font-size: 60px;
+
+}
+#I{
+	position: absolute;
+	height: 313px;
+	width: 100%;
+
+}
+
+
+.Fin{
+	display: block;
+    padding: 8px;
+    background-color: black;
+    border-bottom: 1px solid;
+    
+float: left;
+border: .5px;
+  font-size: 30px;
+
+}
+
+
+
+#Ulll {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+
+
+
+
+
+}
+
+
+
+#Lightt{
+
+     font-size: 26px;
+     
+
+}
+#E{
+
+
+
+}
+#bodyy{
+
+  background-color: #424242;
+ height: 100% auto;
+ width: 100% auto;
+
+}
+
+#Pic{
+
+  float: left;
+    margin-right: 10px;
+    padding: 3px;
+   height: 400px;
+   width: 700px;
+ 
+}
+
+.Whitey{
+
+  color: white;
+
+}
+
+#Reg{
+  
+   font-size: 50px;
+  padding: 2px;
+  margin: 3px;
+}
+
+#Divee{
+
+  border: 1px solid white;
+ border-right: 1px solid white;
+
+
+ }
+
+
+ #Hitt{
+
+  border: 1px solid white;
+     margin-right: 10px;
+    padding: 4px;
+overflow: auto;
+  }
+  
+  #Bolbb{
+
+  font-size: 26px;
+  
+
+  }
+
+  #Picturrr{
+
+  float: right;
+    margin-right: 10px;
+    padding: 3px;
+   height: 400px;
+   width: 700px;
+  
+
+
+  }
+  
+   #Nitt{
+
+    border: 1px solid white;
+     margin-right: 10px;
+    padding: 4px;
+    overflow: auto;
+   }
+
+
+
+
+
+
+#fotterr{
+
+
+  border: 1px solid #D4D4C4;
+
+  width: 100%;
+
+  height: 300px;
+
+  background-color: #D4D4C4;
+  margin-top: 4%;
+}
+#kil{
+
+  display: flex;
+  position: absolute;
+
+  left: 30%;
+
+padding: -10%;
+}
+.nil{
+
+  list-style: none;
+padding: 40px;
+}
+
+.bil{
+padding: 20px;
+
+  width: 80px;
+  height: 80px;
+  background: #fff;
+  text-align: center;
+  font-size: 35px;
+  margin: 0 10px;
+  border-radius: 50%;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border: 3px solid white;
+}
+
+
+i{
+
+
+  color: black;
+}
+
+
+
+
+*{
+
+  margin: 0px;
+  padding: 0px;
+box-sizing: border-box;
+}
+
